@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooyieyoen.hooversinteriors.com/sitemap.xml
